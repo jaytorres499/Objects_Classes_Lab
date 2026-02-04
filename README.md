@@ -1,6 +1,6 @@
 # BankAccount Class 
 
-A C++ class for representing a book in a library system.
+A C++ class for multiple bank accounts and management.
 
 ## Data Dictionary
 
