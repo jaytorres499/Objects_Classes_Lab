@@ -1,4 +1,4 @@
-# BankAccount Class (Example)
+# BankAccount Class 
 
 A C++ class for representing a book in a library system.
 
